@@ -86,7 +86,7 @@ const CommingSoon = () => {
           <button onClick={handleAlert} className="w-[100px] hover:bg-inherit hover:text-white border p-2 rounded bg-[#0ece91]">
               Get Notify
             </button>
-            <button className="w-[100px] text-white border p-2 rounded hover:bg-inherit hover:text-black hover:bg-[#0ece91]">
+            <button className="w-[100px] text-white border p-2 rounded  hover:text-black hover:bg-[#0ece91]">
               <Link to="/about">About Us</Link>
             </button>
           </div>
